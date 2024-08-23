@@ -1,6 +1,6 @@
 # HyperCells Cell Graph Library
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13365805.svg)](https://doi.org/10.5281/zenodo.13365805)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13366150.svg)](https://doi.org/10.5281/zenodo.13366150)
 
 Collection of cell, model, and supercell model graphs of hyperbolic lattices generated with [HyperCells](https://github.com/patrick-lenggenhager/HyperCells).
 
