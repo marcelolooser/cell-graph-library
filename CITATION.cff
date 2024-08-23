@@ -11,6 +11,9 @@ authors:
   - given-names: Patrick M.
     family-names: Lenggenhager
     orcid: 'https://orcid.org/0000-0001-6746-1387'
+    affiliation: >-
+      Max Planck Institute for the Physics of Complex
+      Systems, Dresden, Germany
 identifiers:
   - type: doi
     value: 10.5281/zenodo.13365803
