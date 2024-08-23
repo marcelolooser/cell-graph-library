@@ -15,5 +15,6 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.13365803
     description: all versions
-repository-code: 'https://github.com/patrick-lenggenhager/cell-graph-library'
+repository-code: 'https://github.com/HyperCells/cell-graph-library'
 license: CC-BY-SA-4.0
+version: 1.0.1
